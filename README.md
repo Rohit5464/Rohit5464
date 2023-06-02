@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal project<br>👯 I’m looking to collaborate on any fullstack development<br>🌱 I’m currently learning advanced ReactJs and its libraries<br><br>
+🔭 I’m currently working on my Full stack Project<br>👯 They call me the mad developer<br>🌱 But i doubt that<br><br>
 
 
 ## 🌐 Socials:
