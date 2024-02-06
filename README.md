@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Full stack Project<br>👯 They call me the mad developer<br>🌱 But i doubt that<br><br>
+🔭 I’m currently working on my Full stack Project and implementing AI in it<br>👯 They call me the mad developer<br>🌱 But i doubt that<br><br>
 
 
 ## 🌐 Socials:
